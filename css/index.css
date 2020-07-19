@@ -905,10 +905,7 @@ html {
     color: rgba(255, 255, 255, 0.8);
 }
 
-.menu-toggle:before {
-    content: "\e800";
-    font-size: 18px;
-}
+
 
 body {
     position: relative;
